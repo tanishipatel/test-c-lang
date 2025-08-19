@@ -2,3 +2,8 @@
 
 ## project1
 ![project1](project1.png)
+
+# exam project
+
+## Screenshot 2025-07-26 132406.png
+![Screenshot 2025-07-26 132406.png].(Screenshot 2025-07-26 132406.png)
